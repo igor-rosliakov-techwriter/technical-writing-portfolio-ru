@@ -56,7 +56,7 @@
    3. типичные проблемы локальной разработки;
    4. инструкции для распространённых сбоев.
 
-🔗 [Локальная среда разработки на Docker](https://github.com/igor-rosliakov-techwriter/dockerized-backend-dev-environment)
+🔗 [Локальная среда разработки на Docker](https://github.com/igor-rosliakov-techwriter/Dockerized-Backend-Dev-Environment/blob/main/README.ru.md)
 
 ### 🟢 Примеры технических текстов: статьи и учебные материалы
 
